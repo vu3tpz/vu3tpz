@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Vishnu M
 
+- 🔭 I’m currently working as Backend Developer (Python)
+- 💬 Ask me about **Python**, **Django**, **Django Rest Framework**
+
+### Language & Tools 🛠️
+[![My Skills](https://skillicons.dev/icons?i=aws,css,django,docker,github,html,js,linux,mongodb,mysql,nginx,postgres,postman,py,react,redis,regex,sqlite,vscode&perline=10)](https://github.com/vu3tpz/vu3tpz/)
+
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vu3tpz&show_icons=true)
 <!--
 **vu3tpz/vu3tpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
