@@ -6,7 +6,7 @@
 
 ### Language & Tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=aws,css,django,docker,github,html,js,linux,mongodb,mysql,nginx,postgres,postman,py,react,redis,regex,sqlite,vscode&perline=10)](https://github.com/vu3tpz/vu3tpz/)
+[![My Skills](https://skillicons.dev/icons?i=aws,css,django,docker,github,html,js,linux,mongodb,mysql,nginx,postgres,postman,py,react,redis,regex,sqlite,vscode&perline=10)](https://github.com/vu3tpz/vu3tpz/)[![My Skills](https://skillicons.dev/icons?i=aws,css,django,docker,github,html,js,linux,mongodb,mysql,nginx,postgres,postman,py,react,redis,regex,sqlite,vscode&perline=10)](https://github.com/vu3tpz/vu3tpz/)
 
 ### GitHub Stats 📈
 
