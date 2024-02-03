@@ -8,10 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,css,django,docker,github,html,js,linux,mongodb,mysql,nginx,postgres,postman,py,react,redis,regex,sqlite,vscode&perline=10)](https://github.com/vu3tpz/vu3tpz/)
 
-### GitHub Stats 📈
-
-![Vishnu's GitHub stats](https://github-stats-vu3tpz.vercel.app/api?username=vu3tpz&show_icons=true)
-
 
 <!--
 **vu3tpz/vu3tpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
