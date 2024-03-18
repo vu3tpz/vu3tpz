@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Vishnu M
+<!-- <img src="https://komarev.com/ghpvc/?username=vu3tpz" alt="vu3tpz" /> -->
 
 #### Who I am?
 
@@ -11,29 +12,32 @@
 
 #### What are my skill sets?
 
-- ⚙️ Backend:
+- ⚙️ **Backend:**
 
-    - Programming: `Python`
+    - **Programming:** `Python`
+    - **Framework:** `Django` • `Django Rest Framework`
+    - **Databases:** `MySQL` • `PostgreSQL`
+    - **System Architecture:** `Monolithic`
+    - **Utils:** `regex` • `Redis` • `Celery`
+    - **Protocol:** `REST`
+ 
+- 🖥 **Frontend (_I do frontend for fun_):**
 
-<!--
-- 🔭 I’m currently working as ***Backend Developer (Python)***
-- 🌱 I’m currently learning *Python*
-- 💬 Ask me about **Python**, **Django**, **Django Rest Framework**
+    - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
+    - **Framework/Library:** `React.js`
 
-### Language & Tools 🛠️
+- 🎡 **Ecosystem:**
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,aws,azure,bootstrap,css,docker,git,github,html,js,linux,mongodb,mysql,nginx,postgres,postman,react,redis,regex,sqlite,ts,vscode&perline=10)](https://github.com/vu3tpz/vu3tpz/)
+    - **Containerization:** `Docker`
+    - **Version Control:** `Git` • `GitHub`
+    - **Web Services:** `AWS` • `Azure`
+    - **Tools:** `Postman` • `VS Code`
+    - **OS:** `Linux` • `Mac` • `Windows`
 
-**vu3tpz/vu3tpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### How to reach me?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/Linkedin-0c67c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu029/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/its_me_vmk)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23533370/vishnu-m)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-1da84b?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishnuvmk029)
+[![Leet Code](https://img.shields.io/badge/leetcode-292929?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vu3tpz/)
