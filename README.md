@@ -17,7 +17,7 @@
     - **Programming:** `Python`
     - **Framework:** `Django` • `Django Rest Framework`
     - **Databases:** `MySQL` • `PostgreSQL`
-    - **System Architecture:** `Monolithic`
+    - **System Architecture:** `Monolithic` • `Microservices`
     - **Utils:** `regex` • `Redis` • `Celery`
     - **Protocol:** `REST`
  
