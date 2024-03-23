@@ -3,8 +3,8 @@
 
 #### Who I am?
 
-- A Python Developer based in Chennai, India with 2+ years of experience.
-- Bachelor of Computer Applications (BCA) degree from Kerala University
+- I am a Python Developer with 2+ years of experience, based in Chennai, India.
+- Bachelor of Computer Applications (BCA) degree from Kerala University.
 
 #### What I'm doing?
 
