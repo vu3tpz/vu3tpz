@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Vishnu M
-<!-- <img src="https://komarev.com/ghpvc/?username=vu3tpz" alt="vu3tpz" /> -->
+<img src="https://komarev.com/ghpvc/?username=vu3tpz" alt="vu3tpz" />
 
 #### Who I am?
 
@@ -8,7 +8,7 @@
 
 #### What I'm doing?
 
-- Writing `Python`, `Django`, `Django Rest Framework`, `PostgreSQL`.
+- Writing `Python`, `Django`, `Django Rest Framework`, `PostgreSQL`
 
 #### What are my skill sets?
 
