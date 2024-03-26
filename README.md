@@ -42,3 +42,4 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23533370/vishnu-m)
 [![Hackerrank](https://img.shields.io/badge/hackerrank-1da84b?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishnuvmk029)
 [![Leet Code](https://img.shields.io/badge/leetcode-292929?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vu3tpz/)
+[![Reddit](https://img.shields.io/badge/Reddit-ff4400?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/vu3tpz/)
