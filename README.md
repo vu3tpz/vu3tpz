@@ -40,6 +40,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0c67c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu029/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/its_me_vmk)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23533370/vishnu-m)
+[![Reddit](https://img.shields.io/badge/Reddit-ff4400?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/vu3tpz/)
+
+
+#### Programming Streak
+
 [![Hackerrank](https://img.shields.io/badge/hackerrank-1da84b?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishnuvmk029)
 [![Leet Code](https://img.shields.io/badge/leetcode-292929?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vu3tpz/)
-[![Reddit](https://img.shields.io/badge/Reddit-ff4400?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/vu3tpz/)
