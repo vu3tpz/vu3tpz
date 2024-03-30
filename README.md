@@ -45,5 +45,5 @@
 
 #### Programming Streak
 
-[![Hackerrank](https://img.shields.io/badge/hackerrank-1da84b?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishnuvmk029)
 [![Leet Code](https://img.shields.io/badge/leetcode-292929?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vu3tpz/)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-1da84b?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishnuvmk029)
