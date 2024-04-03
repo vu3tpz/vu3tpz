@@ -5,7 +5,7 @@
 
 - I am a Python Developer with 2+ years of experience, based in Chennai, India.
 - Bachelor of Computer Applications (BCA) degree from Kerala University.
-- Learning _Artificial Intelligence_ and _Machine Learning_.
+- Also interested in _Artificial Intelligence_ and _Machine Learning_.
 
 #### What I'm doing?
 
