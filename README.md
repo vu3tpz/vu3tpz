@@ -40,6 +40,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0c67c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu029/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/its_me_vmk)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23533370/vishnu-m)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vu3tpz)
 [![Reddit](https://img.shields.io/badge/Reddit-ff4400?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/vu3tpz/)
 
 
