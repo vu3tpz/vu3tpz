@@ -19,13 +19,13 @@
     - **Framework:** `Django` • `Django Rest Framework`
     - **Databases:** `MySQL` • `PostgreSQL`
     - **System Architecture:** `Monolithic` • `Microservices`
-    - **Utils:** `regex` • `Redis` • `Celery`
+    - **Utils:** `regex` • `Redis` • `Celery` • `Kafka`
     - **Protocol:** `REST`
  
 - 🖥 **Frontend (_I do frontend for fun_):**
 
     - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
-    - **Framework/Library:** `React.js`
+    - **Framework/Library:** `React.js` • `NestJs`
 
 - 🎡 **Ecosystem:**
 
