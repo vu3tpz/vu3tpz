@@ -27,6 +27,10 @@
     - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
     - **Framework/Library:** `React.js` • `NestJs`
 
+- 🎯 **Additional Tech:**
+
+    - **Workflow Management Tool:** `Apache Airflow`
+
 - 🎡 **Ecosystem:**
 
     - **Containerization:** `Docker`
