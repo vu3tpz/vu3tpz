@@ -15,8 +15,8 @@
 
 - ⚙️ **Backend:**
 
-    - **Programming:** `Python` • `NestJs`
-    - **Framework:** `Django` • `Django Rest Framework`
+    - **Programming:** `Python`
+    - **Framework:** `Django` • `Django Rest Framework` • `NestJs`
     - **Databases:** `MySQL` • `PostgreSQL`
     - **System Architecture:** `Monolithic` • `Microservices`
     - **Utils:** `regex` • `Redis` • `Celery` • `Kafka`
