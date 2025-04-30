@@ -15,7 +15,7 @@
 
 - ⚙️ **Backend:**
 
-    - **Programming:** `Python`
+    - **Programming:** `Python` • `NestJs`
     - **Framework:** `Django` • `Django Rest Framework`
     - **Databases:** `MySQL` • `PostgreSQL`
     - **System Architecture:** `Monolithic` • `Microservices`
@@ -25,7 +25,7 @@
 - 🖥 **Frontend (_I do frontend for fun_):**
 
     - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
-    - **Framework/Library:** `React.js` • `NestJs`
+    - **Framework/Library:** `React.js`
 
 - 🎯 **Additional Tech:**
 
