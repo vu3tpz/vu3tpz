@@ -17,7 +17,7 @@
 
     - **Programming:** `Python`
     - **Framework:** `Django` • `Django Rest Framework` • `NestJs`
-    - **Databases:** `MySQL` • `PostgreSQL`
+    - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
     - **System Architecture:** `Monolithic` • `Microservices`
     - **Utils:** `regex` • `Redis` • `Celery` • `Kafka`
     - **Protocol:** `REST`
