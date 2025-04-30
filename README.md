@@ -3,7 +3,7 @@
 
 #### Who I am?
 
-- I am a Python Developer with 2+ years of experience, based in Chennai, India.
+- I am a Python Full Stack Developer with 2+ years of experience, based in Chennai, India.
 - Bachelor of Computer Applications (BCA) degree from Kerala University.
 - Also interested in _Artificial Intelligence_ and _Machine Learning_.
 
