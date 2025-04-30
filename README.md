@@ -22,7 +22,7 @@
     - **Utils:** `regex` • `Redis` • `Celery` • `Kafka`
     - **Protocol:** `REST`
  
-- 🖥 **Frontend (_I do frontend for fun_):**
+- 🖥 **Frontend:**
 
     - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
     - **Framework/Library:** `React.js`
