@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Vishnu M
-<!-- <img src="https://komarev.com/ghpvc/?username=vu3tpz" alt="vu3tpz" /> -->
+[![wakatime](https://wakatime.com/badge/user/8d23fc0e-98b6-40be-b1f1-a7bc0e3979c1.svg)](https://wakatime.com/@8d23fc0e-98b6-40be-b1f1-a7bc0e3979c1)
+<img src="https://komarev.com/ghpvc/?username=vu3tpz" alt="vu3tpz" />
 
 #### Who I am?
 
