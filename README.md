@@ -38,6 +38,7 @@
     - **Web Services:** `AWS` • `Azure`
     - **Tools:** `Postman` • `VS Code`
     - **OS:** `Linux` • `Mac` • `Windows`
+    - **AI Tools:** `Windsurf`
 
 #### How to reach me?
 
