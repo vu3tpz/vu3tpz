@@ -29,7 +29,7 @@
 
 - 🎯 **Additional Tech:**
 
-    - **Workflow Management Tool:** `Apache Airflow`
+    - **Workflow Management Tool:** `Apache Airflow` • `AWS Glue`
 
 - 🎡 **Ecosystem:**
 
