@@ -35,10 +35,10 @@
 
     - **Containerization:** `Docker`
     - **Version Control:** `Git` • `GitHub`
-    - **Web Services:** `AWS` • `Azure`
+    - **Web Services:** `AWS` • `GCP` • `Azure`
     - **Tools:** `Postman` • `VS Code`
     - **OS:** `Linux` • `Mac` • `Windows`
-    - **AI Tools:** `Windsurf`
+    - **AI Tools:** `Windsurf` • `Claude Code`
 
 #### How to reach me?
 
