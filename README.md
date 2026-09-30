@@ -1,5 +1,4 @@
 ### Hi there 👋 I am Vishnu M
-<img src="https://komarev.com/ghpvc/?username=vu3tpz" alt="vu3tpz" />
 
 #### Who I am?
 
